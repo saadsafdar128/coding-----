@@ -1,0 +1,27 @@
+Atomic_Number,Element,Symbol,Atomic_Mass,Category,State_At_Room_Temperature,Group
+1,Hydrogen,H,1.008,Nonmetal,Gas,1
+2,Helium,He,4.0026,Noble gas,Gas,18
+3,Lithium,Li,6.94,Alkali metal,Solid,1
+4,Beryllium,Be,9.0122,Alkaline earth metal,Solid,2
+5,Boron,B,10.81,Metalloid,Solid,13
+6,Carbon,C,12.011,Nonmetal,Solid,14
+7,Nitrogen,N,14.007,Nonmetal,Gas,15
+8,Oxygen,O,15.999,Nonmetal,Gas,16
+9,Fluorine,F,18.998,Halogen,Gas,17
+10,Neon,Ne,20.18,Noble gas,Gas,18
+11,Sodium,Na,22.99,Alkali metal,Solid,1
+12,Magnesium,Mg,24.305,Alkaline earth metal,Solid,2
+13,Aluminium,Al,26.982,Post-transition metal,Solid,13
+14,Silicon,Si,28.085,Metalloid,Solid,14
+15,Phosphorus,P,30.974,Nonmetal,Solid,15
+16,Sulfur,S,32.06,Nonmetal,Solid,16
+17,Chlorine,Cl,35.45,Halogen,Gas,17
+18,Argon,Ar,39.948,Noble gas,Gas,18
+19,Potassium,K,39.0983,Alkali metal,Solid,1
+20,Calcium,Ca,40.078,Alkaline earth metal,Solid,2
+26,Iron,Fe,55.845,Transition metal,Solid,8
+29,Copper,Cu,63.546,Transition metal,Solid,11
+30,Zinc,Zn,65.38,Transition metal,Solid,12
+47,Silver,Ag,107.8682,Transition metal,Solid,11
+79,Gold,Au,196.96657,Transition metal,Solid,11
+80,Mercury,Hg,200.592,Transition metal,Liquid,12
